@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.9</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 	<groupId>com.alovoa</groupId>
 	<artifactId>alovoa</artifactId>
@@ -144,7 +144,7 @@
 		<dependency>
 			<groupId>com.sipgate</groupId>
 			<artifactId>mp3-wav</artifactId>
-			<version>1.0.3</version>
+			<version>1.0.4</version>
 		</dependency>
 		<dependency>
 		    <groupId>com.github.gotson</groupId>
